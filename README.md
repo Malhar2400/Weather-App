@@ -49,5 +49,5 @@
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Malhar2400/Weather-App/blob/master/images/screenshot_1.PNG)
+![screenshot_1](https://github.com/Malhar2400/Weather-App/assets/120003057/b8a0899e-8eb7-4e8a-a286-d2970ac2a52f)
 ![App Screenshot](https://github.com/Malhar2400/Weather-App/blob/master/images/screenshot_2.PNG)
